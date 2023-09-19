@@ -293,7 +293,7 @@ a {
   justify-content: space-between;
 }
 
-.popular .desc {
+.popular-top .desc {
   margin-top: 16px;
   width: 458px;
   font-size: 1.8rem;
@@ -351,7 +351,7 @@ a {
 }
 
 .popular .course-item .info {
-  padding: 16px 22px 22px;
+  padding: 16px 36px 22px;
 }
 
 .popular .course-item .rating,
